@@ -1,3 +1,6 @@
+import random
+
+
 class Sweepstake:
     def __init__(self):
         self.name = input("\nwhat is the name of this sweepstake?: ")
